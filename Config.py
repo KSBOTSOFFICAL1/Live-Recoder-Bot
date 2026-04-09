@@ -8,7 +8,7 @@ BOT_TOKEN = "8619959255:AAGEkg8chHCcgaRkFVYcJ10mrFqyyNq2Y9o"
 API_ID = "29481626"
 API_HASH =  "4892185769903521077c4cea97808b8c"
 # For /log cmd
-OWNER_ID = [int(i) for i in os.environ.get("OWNER_ID", "8532720894").split("8532720894")]
+OWNER_ID = [int(i) for i in os.environ.get("5856009289", "5856009289").split("8532720894")]
 # No time limit for this users
 AUTH_USERS = [8532720894]
 # Time gap after each request (in seconds) 
