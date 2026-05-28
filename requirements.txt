@@ -3,3 +3,6 @@ tgcrypto
 asyncio
 aiohttp
 psutil
+pytz
+requests
+urllib3
