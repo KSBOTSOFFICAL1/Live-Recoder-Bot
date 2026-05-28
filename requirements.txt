@@ -1,9 +1,7 @@
-pyrogram
+pyrogram==2.0.106
 tgcrypto
-asyncio
-hachoir
+aiohttp
+pytz
+psutil
 requests
 yt-dlp
-ffmpeg-python
-Flask
-pycryptodome
